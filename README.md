@@ -2,15 +2,15 @@
 
 Gaussian elimination is an algebraic solution to solve the unknown variables from a linear system of equations like:
 
-Row 1: -8x + 5y + 3z = 44
-Row 2: -6x + 2y + -8z = -66
-Row 3: 6x + -6y + 7z = 64
+Row 1: -8x + 5y + 3z = 44 <br>
+Row 2: -6x + 2y + -8z = -66 <br> 
+Row 3: 6x + -6y + 7z = 64 <br>
 
 The equations are solved by using a set of rules to produce a linear system of equations like:
 
-Row 1: 1x + 0y + 0z = -3
-Row 2: 0x + 1y + 0z = -2
-Row 3: 0x + 0y + 1z = 10
+Row 1: 1x + 0y + 0z = -3 <br>
+Row 2: 0x + 1y + 0z = -2 <br>
+Row 3: 0x + 0y + 1z = 10 <br>
 
 Which has solves our set of equations as x = -3, y = -2 and z = 10. 
 
