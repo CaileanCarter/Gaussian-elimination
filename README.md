@@ -1,3 +1,6 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/CaileanCarter/Gaussian-elimination.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/CaileanCarter/Gaussian-elimination/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/CaileanCarter/Gaussian-elimination.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/CaileanCarter/Gaussian-elimination/context:python)
+
 # Gaussian elimination
 
 Gaussian elimination is an algebraic solution to solve the unknown variables from a linear system of equations like:
